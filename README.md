@@ -7,7 +7,7 @@ and building a personalized team for potential jobs or even startups.
 Solaiman Jawad,Marc Bonnell, Jason Antao
 
 ## Responsibilities:
-Getting most of the Django framework working, occasionally helping out with the frontend HTML/CSS.
+Getting most of the Django framework working, and contributing to a part of the the frontend HTML/CSS.
 
 
 *my first experience with Django and actually using Amazon Web Services. Nevertheless, was a lot of fun and  a great learning experience.Actually managed to snag the Best AWS Design award for StarterHacks 2018*
